@@ -1,4 +1,5 @@
 console.log("Hello World")
+console.log("Hello Brian")
 namespace SpriteKind {
     export const icon = SpriteKind.create()
 }
