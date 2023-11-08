@@ -1,3 +1,4 @@
+print("Hello World")
 @namespace
 class SpriteKind:
     icon = SpriteKind.create()
